@@ -9,6 +9,4 @@ Student Yezi, updated.
 Student Yezi, updated line 5;
 
 
-Student Kevin, updated line 12;
-
-
+Kevin has updated it on June-2-2020
